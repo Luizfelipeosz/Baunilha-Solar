@@ -51,6 +51,8 @@ O foco do projeto é entregar uma experiência de produto real, com:
 ### 📌 GIF
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExxxxxxxx.gif" width="80%" />
+<img width="1293" height="764" alt="Baunilha 1" src="https://github.com/user-attachments/assets/22f64280-0125-4860-892c-3beaa473ca1f" />
+<img width="1307" height="762" alt="Baunilha 2" src="https://github.com/user-attachments/assets/bc46eb7d-1a3f-4ff3-a41c-e739307f420f" />
 
 </div>
 
