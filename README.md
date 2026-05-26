@@ -48,7 +48,7 @@ O foco do projeto é entregar uma experiência de produto real, com:
 
 ---
 
-### 📌 OU GIF (alternativa melhor ainda)
+### 📌 GIF
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExxxxxxxx.gif" width="80%" />
 
