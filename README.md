@@ -1,39 +1,102 @@
-🌞 Baunilha Solar
+<div align="center">
 
-E-commerce de confeitaria artesanal com experiência de compra fluida, identidade visual moderna e arquitetura front-end escalável.
+# 🌞 Baunilha Solar
 
-🚀 Status do Projeto
+### 🍰 E-commerce de confeitaria artesanal
 
+<img src="https://images.unsplash.com/photo-1509440159596-0249088772ff" width="100%" />
 
+<br/>
 
+![Status](https://img.shields.io/badge/status-concluído-success)
+![Frontend](https://img.shields.io/badge/frontend-HTML%20%7C%20CSS%20%7C%20JS-blue)
+![Storage](https://img.shields.io/badge/storage-localStorage-orange)
+![Design](https://img.shields.io/badge/ui%2Fux-modern%20premium-ffb347)
 
+</div>
 
+---
 
+<br/>
 
+# ✨ Sobre o projeto
 
-🧭 Sobre o produto
+A **Baunilha Solar** é uma aplicação front-end multipágina que simula um e-commerce real de confeitaria artesanal.
 
-A Baunilha Solar é uma aplicação front-end multipágina que simula um e-commerce real de confeitaria artesanal.
+O foco do projeto é entregar uma experiência de produto real, com:
+- fluxo de compra
+- autenticação simulada
+- persistência de dados
+- UI moderna e responsiva
 
-O projeto foi desenvolvido com foco em experiência de usuário, estrutura de produto real e boas práticas de front-end, sem frameworks, simulando um ambiente próximo de produção.
+---
 
-✨ Experiência do usuário
+<br/>
 
-O sistema permite:
+# 🎥 Demonstração do projeto
 
-Navegar por um cardápio de doces artesanais 🍰
-Filtrar produtos por categoria
-Adicionar itens ao carrinho 🛒
-Simular autenticação de usuário 🔐
-Criar conta e manter sessão no navegador
-Visualizar páginas institucionais da marca
-🧠 Stack utilizada
-HTML5 (estrutura semântica)
-CSS3 (arquitetura por página)
-JavaScript (Vanilla)
-LocalStorage API
-🏗️ Arquitetura
+<div align="center">
+
+### 📌 Veja o projeto em funcionamento
+
+<!-- 🔴 OPÇÃO 1: vídeo (recomendado para GitHub) -->
+<a href="LINK-DO-SEU-VIDEO">
+  <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="80%" />
+</a>
+
+**▶ Clique na imagem acima para assistir a demonstração**
+
+---
+
+### 📌 OU GIF (alternativa melhor ainda)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExxxxxxxx.gif" width="80%" />
+
+</div>
+
+---
+
+<br/>
+
+# 🚀 Funcionalidades
+
+## 🍰 E-commerce
+- Catálogo de produtos dinâmico
+- Filtros por categoria
+- Carrinho funcional
+- Total automático
+- Persistência via localStorage
+
+## 🔐 Autenticação simulada
+- Cadastro de usuário (username + senha)
+- Login com validação
+- Sessão persistente no navegador
+
+## 📩 Experiência
+- Página de contato funcional (UI feedback)
+- Navegação multipágina
+- Interface moderna e responsiva
+
+---
+
+<br/>
+
+# 🧠 Stack utilizada
+
+| Tecnologia | Uso |
+|------------|-----|
+| HTML5 | Estrutura |
+| CSS3 | UI/UX |
+| JavaScript | Lógica |
+| LocalStorage | Persistência |
+
+---
+
+<br/>
+
+# 🏗️ Arquitetura
 baunilha-solar/
+│
 ├── index.html
 ├── cardapio.html
 ├── carrinho.html
@@ -42,59 +105,59 @@ baunilha-solar/
 ├── sobre.html
 ├── contato.html
 │
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── img/
-⚙️ Decisões técnicas
-Arquitetura multipágina (MPA) para simular produto real
-CSS isolado por contexto (evita dependência global)
-JavaScript modular por página
-Persistência via localStorage
-Login/cadastro simulando autenticação real (mock auth)
-Estrutura preparada para evolução para backend
-🎨 UI/UX Design
-Identidade visual inspirada em confeitaria premium
-Paleta quente e acolhedora (creme, dourado, caramelo)
-Layout responsivo (desktop-first)
-Microinterações e feedback visual
-Consistência entre páginas
-📌 Funcionalidades
-🍰 E-commerce
-Catálogo dinâmico de produtos
-Filtros por categoria
-Carrinho funcional com persistência
-Cálculo automático de total
-🔐 Autenticação simulada
-Cadastro de usuário (username + senha)
-Login com validação
-Sessão armazenada no navegador
-📩 Interações
-Formulário de contato com feedback visual
-Simulação de envio de mensagem
-🎯 Objetivo do projeto
+└── assets/
+├── css/
+├── js/
+└── img/
 
-Este projeto foi desenvolvido para demonstrar habilidades em:
+---
 
-Construção de interfaces reais sem frameworks
-Manipulação avançada do DOM
-Lógica de aplicações comerciais
-Estruturação de projetos escaláveis
-UX aplicado em produto real
-🚀 Diferenciais
+<br/>
 
-✔ Projeto estruturado como produto real
-✔ Fluxo completo de compra simulado
-✔ Autenticação funcional (mock)
-✔ Arquitetura organizada e escalável
-✔ Pronto para evolução full-stack
+# 🎨 UI/UX Design
 
-📈 Possíveis evoluções
-Backend com Node.js + Express
-Banco de dados (MongoDB ou PostgreSQL)
-Autenticação real com JWT
-Sistema de pagamento
-Dashboard administrativo
-👨‍💻 Autor
+✔ Identidade visual premium  
+✔ Paleta quente (creme, dourado, caramelo)  
+✔ Layout responsivo  
+✔ Microinterações suaves  
+✔ Experiência consistente entre páginas  
 
-Projeto desenvolvido como portfólio front-end com foco em simulação de produto real e experiência de mercado.
+---
+
+<br/>
+
+# ⚙️ Decisões técnicas
+
+- Arquitetura multipágina (sem SPA)
+- CSS isolado por página
+- JS modular por contexto
+- Autenticação fake via localStorage
+- Estrutura escalável para backend futuro
+
+---
+
+<br/>
+
+# 📈 Evoluções futuras
+
+- Backend com Node.js
+- Banco de dados real
+- Autenticação JWT
+- Pagamento integrado
+- Dashboard admin
+
+---
+
+<br/>
+
+# 👨‍💻 Autor
+
+Projeto desenvolvido como portfólio front-end focado em produto real e experiência de usuário.
+
+---
+
+<div align="center">
+
+## 🌞 Baunilha Solar — “Doce como experiência deve ser”
+
+</div>
