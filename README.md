@@ -154,7 +154,11 @@ baunilha-solar/
 
 # 👨‍💻 Autor
 
+<h1 align="center">Luiz Felipe</h1>
+
+<p align="center">
 Projeto desenvolvido como portfólio front-end focado em produto real e experiência de usuário.
+</p>
 
 ---
 
